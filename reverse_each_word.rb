@@ -1,4 +1,4 @@
-def reverse_each_word1(string)
+def reverse_each_word_using_each(string)
   array_to_reverse = string.split
   reversed_array = []
   
