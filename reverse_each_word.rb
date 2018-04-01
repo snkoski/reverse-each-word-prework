@@ -14,5 +14,4 @@ def reverse_each_word(string)
   array_to_reverse.collect do |word|
     word.reverse
   end
-  array_to_reverse
 end
